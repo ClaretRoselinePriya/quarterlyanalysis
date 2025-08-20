@@ -38,4 +38,4 @@ def main():
     print(f"Saved figure: {out}")
 
 if __name__ == "__main__":
-    main()
+    main()# minor edit to trigger PR
