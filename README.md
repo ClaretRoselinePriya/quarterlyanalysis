@@ -54,4 +54,4 @@ python analysis.py
 - `README.md` — data story with findings, implications, and recommendations
 
 ## Notes on LLM Assistance
-This analysis and documentation were prepared with LLM support (ChatGPT Codex/Jules). Commit messages can reflect that (e.g., `chore(codex): initial analysis`).
+This analysis and documentation were prepared with LLM support (ChatGPT Codex/Jules). Commit messages can reflect that (e.g., `chore(codex): initial analysis`).\nPR created with Codex assistance.
